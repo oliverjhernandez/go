@@ -1,0 +1,62 @@
+Connected!
+9 NEQUI_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+7943
+INSERT INTO payment_identities VALUES('7943', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'BANCOLOMBIA_COLLECT_SANDBOX' , 'DEFAULT', true, true, 'BANCOLOMBIA_COLLECT')   --  EXECUTED
+9 NEQUI_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+9879
+INSERT INTO payment_identities VALUES('9879', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'CARD_SANDBOX' , 'DEFAULT', true, true, 'CARD')   --  EXECUTED
+9 NEQUI_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+4574
+INSERT INTO payment_identities VALUES('4574', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'BANCOLOMBIA_TRANSFER_SANDBOX' , 'DEFAULT', true, true, 'BANCOLOMBIA_TRANSFER')   --  EXECUTED
+9 NEQUI_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+NEQUI_SANDBOX  ==  NEQUI_SANDBOX
+9 NEQUI_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+8066
+INSERT INTO payment_identities VALUES('8066', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'PSE_SANDBOX' , 'DEFAULT', true, true, 'PSE')   --  EXECUTED
+9 CARD_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+3280
+INSERT INTO payment_identities VALUES('3280', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'BANCOLOMBIA_COLLECT_SANDBOX' , 'DEFAULT', true, true, 'BANCOLOMBIA_COLLECT')   --  EXECUTED
+9 CARD_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+CARD_SANDBOX  ==  CARD_SANDBOX
+9 CARD_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+8826
+INSERT INTO payment_identities VALUES('8826', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'BANCOLOMBIA_TRANSFER_SANDBOX' , 'DEFAULT', true, true, 'BANCOLOMBIA_TRANSFER')   --  EXECUTED
+9 CARD_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+8521
+INSERT INTO payment_identities VALUES('8521', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'NEQUI_SANDBOX' , 'DEFAULT', true, true, 'NEQUI')   --  EXECUTED
+9 CARD_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+6155
+INSERT INTO payment_identities VALUES('6155', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'PSE_SANDBOX' , 'DEFAULT', true, true, 'PSE')   --  EXECUTED
+9 CREDIBANCO 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+1282
+INSERT INTO payment_identities VALUES('1282', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'BANCOLOMBIA_COLLECT_SANDBOX' , 'DEFAULT', true, true, 'BANCOLOMBIA_COLLECT')   --  EXECUTED
+9 CREDIBANCO 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+7926
+INSERT INTO payment_identities VALUES('7926', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'CARD_SANDBOX' , 'DEFAULT', true, true, 'CARD')   --  EXECUTED
+9 CREDIBANCO 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+1346
+INSERT INTO payment_identities VALUES('1346', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'BANCOLOMBIA_TRANSFER_SANDBOX' , 'DEFAULT', true, true, 'BANCOLOMBIA_TRANSFER')   --  EXECUTED
+9 CREDIBANCO 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+3256
+INSERT INTO payment_identities VALUES('3256', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'NEQUI_SANDBOX' , 'DEFAULT', true, true, 'NEQUI')   --  EXECUTED
+9 CREDIBANCO 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+4179
+INSERT INTO payment_identities VALUES('4179', '2020-11-26 20:58:05', '2020-11-26 20:58:05', '9', '{}', 'PSE_SANDBOX' , 'DEFAULT', true, true, 'PSE')   --  EXECUTED
+40 NEQUI_SANDBOX 
+ +++++++++++++++++++++++++++++++++++++++++++ 
+6842
